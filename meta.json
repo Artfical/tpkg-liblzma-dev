@@ -1,0 +1,24 @@
+{
+ "name": "liblzma-dev",
+ "version": "5.8.4",
+ "license": "0BSD",
+ "homepage": "https://tukaani.org/xz/",
+ "licenses": [
+  "LICENSE",
+  "NOTICE.txt"
+ ],
+ "sources": [
+  "xz-5.8.4.tar.xz"
+ ],
+ "desc": "liblzma 5.8.4 headers and static library (the xz compression library) for building programs with gcc",
+ "file": "liblzma-dev-5.8.4.tpkg",
+ "size": 175883,
+ "sha256": "6be865f029eba6557efd03b048e06a96cd370540f88425041b28a5d5ff8ec621",
+ "unpacked": 593654,
+ "min_build": 615,
+ "depends": [
+  "gcc",
+  "xz"
+ ],
+ "commands": {}
+}

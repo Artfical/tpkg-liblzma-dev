@@ -1,0 +1,5 @@
+liblzma-dev 5.8.4 for tOS
+=========================
+
+Built from the release tarball beside this package (xz-5.8.4.tar.xz), unmodified, with prefix /system/pkg/liblzma-dev: headers in include/, libraries in lib/. gcc finds them by itself (its specs list this folder). License: 0BSD (LICENSE).
+glibc: its programs and shared libraries are linked dynamically against the GNU C Library, which tOS's base system carries in /lib64 and /lib/x86_64-linux-gnu.
